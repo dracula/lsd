@@ -43,7 +43,7 @@ Place dracula.yaml in the theme folder
 
 ![draculatheme](https://user-images.githubusercontent.com/96319944/170396845-60d77ad6-5305-4088-bb2f-23429ddd75e1.PNG)
 
-Enjoy on Mac, Windows or Linux
+Enjoy on Mac, Windows & Linux
 ## Team
 
 This theme is maintained by the following person(s).
