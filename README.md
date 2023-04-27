@@ -28,7 +28,7 @@ theme: dracula
   
 If there is no config file please feel free to use this one
 
-[config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775505/config.zip)
+[config.zip](https://github.com/dracula/lsd/files/11348320/config.zip)
 
 ## Theme folder
 
