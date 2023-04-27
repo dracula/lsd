@@ -34,13 +34,13 @@ If there is no config file please feel free to use this one
 
 Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
-![Theme](https://user-images.githubusercontent.com/96319944/170396189-52d5e458-996e-4cfb-980f-46b98004d60f.PNG)
+![lsdroam](https://user-images.githubusercontent.com/96319944/235002352-9f93f62e-dc10-45ad-bcd5-93cd669de549.png)
 
 Place dracula.yaml in the theme folder
 
 [dracula.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775527/dracula.zip)
 
-![draculatheme](https://user-images.githubusercontent.com/96319944/170396845-60d77ad6-5305-4088-bb2f-23429ddd75e1.PNG)
+![dracula](https://user-images.githubusercontent.com/96319944/235002314-4df99eca-4c3e-4f53-adf2-3cc5b0db2637.png)
 
 Enjoy on Mac, Windows & Linux
 ## Team
