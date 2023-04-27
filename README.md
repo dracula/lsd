@@ -2,8 +2,7 @@
 
 > Dracula theme for [lsd](https://github.com/Peltoche/lsd).
 
-![lsd](https://user-images.githubusercontent.com/96319944/170393604-d37f24ca-6995-42e7-88b5-98949f79a32b.PNG)
-
+![lsd](https://user-images.githubusercontent.com/96319944/235001626-4142cc58-d2ea-4e61-96c9-e9fc8c513696.jpeg)
 
 ## Install
 
@@ -13,11 +12,11 @@ In order for lsd to display glyphs correctly you must have a nerd font installed
 
 Config file location
 
-Non-Windows
+## Non-Windows
 
 On non-Windows systems lsd follows the XDG Base Directory Specification convention for the location of the configuration file. The configuration dir lsd uses is itself named lsd. In that directory it looks first for a file called config.yaml. For most people it should be enough to put their config file at ~/.config/lsd/config.yaml.
 
-Windows
+## Windows
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
