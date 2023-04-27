@@ -10,7 +10,7 @@ The wait is over now you can blaze in dracula style with the power of rust [lsd]
 
 In order for lsd to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
 
-Config file location
+## Config file location
 
 ## Non-Windows
 
