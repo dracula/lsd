@@ -38,7 +38,7 @@ Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
 Place dracula.yaml in the theme folder
 
-[dracula.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775527/dracula.zip)
+[dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip)
 
 ![dracula](https://user-images.githubusercontent.com/96319944/235002314-4df99eca-4c3e-4f53-adf2-3cc5b0db2637.png)
 
