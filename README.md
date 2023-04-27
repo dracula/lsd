@@ -20,7 +20,7 @@ On non-Windows systems lsd follows the XDG Base Directory Specification conventi
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
-![config](https://user-images.githubusercontent.com/96319944/170394696-fe2513c3-51e8-41e1-b8d7-83888f034529.PNG)
+![lsdroam](https://user-images.githubusercontent.com/96319944/235001952-0c4dec2c-654e-4505-ac9a-6c008ba75ac1.png)
 
 In the config.yaml change the line to
 
@@ -30,7 +30,7 @@ If there is no config file please feel free to use this one
 
 [config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775505/config.zip)
 
-Theme folder
+## Theme folder
 
 Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
