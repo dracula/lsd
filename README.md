@@ -1,6 +1,6 @@
-# Dracula for [lsd](https://github.com/Peltoche/lsd)
+# Dracula for [lsd](https://github.com/lsd-rs/lsd
 
-> Dracula theme for [lsd](https://github.com/Peltoche/lsd).
+> Dracula theme for [lsd](https://github.com/lsd-rs/lsd).
 
 ![lsd](https://user-images.githubusercontent.com/96319944/235001626-4142cc58-d2ea-4e61-96c9-e9fc8c513696.jpeg)
 
@@ -42,7 +42,7 @@ Place dracula.yaml in the theme folder
 
 ![dracula](https://user-images.githubusercontent.com/96319944/235002314-4df99eca-4c3e-4f53-adf2-3cc5b0db2637.png)
 
-Enjoy on Mac, Windows & Linux
+Enjoy 🧛🏻‍♂️ lsd on Mac, Windows & Linux
 ## Team
 
 This theme is maintained by the following person(s).
