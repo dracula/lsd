@@ -2,7 +2,7 @@
 
 > Dracula theme for [lsd](https://github.com/lsd-rs/lsd).
 
-![lsd](https://user-images.githubusercontent.com/96319944/235001626-4142cc58-d2ea-4e61-96c9-e9fc8c513696.jpeg)
+![lsd](https://user-images.githubusercontent.com/96319944/235167078-bf01d5be-fd5f-41fa-9273-180403ae8030.jpeg)
 
 ## Install
 
