@@ -24,7 +24,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 2. In the config.yaml change the line to
 
         theme: dracula
-3. If there is no config file please feel free to use this one [config.zip] (https://github.com/dracula/lsd/files/11348320/config.zip)        
+3. If there is no config file please feel free to use this one [config.zip](https://github.com/dracula/lsd/files/11348320/config.zip)        
 
 ## Windows
 
@@ -34,4 +34,4 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 4.  In the config.yaml change the line to
 
         theme: dracula
-5. If there is no config file please feel free to use this one [config.zip] (https://github.com/dracula/lsd/files/11348320/config.zip) 
+5. If there is no config file please feel free to use this one [config.zip](https://github.com/dracula/lsd/files/11348320/config.zip) 
