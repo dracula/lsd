@@ -8,7 +8,7 @@
 
 The wait is over now you can blaze in dracula style with the power of rust [lsd](https://github.com/Peltoche/lsd)
 
-In order for lsd to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
+In order for [lsd](https://github.com/lsd-rs/lsd) to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
 
 ## Config file location
 
