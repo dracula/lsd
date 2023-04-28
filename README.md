@@ -28,7 +28,7 @@ theme: dracula
   
 If there is no config file please feel free to use this one
 
-[config.zip](https://github.com/dracula/lsd/files/11348320/config.zip)
+[config.zip](https://github.com/dracula/lsd/files/11355414/config.zip)
 
 ## Theme folder
 
@@ -38,7 +38,7 @@ Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
 Place dracula.yaml in the theme folder
 
-[dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip)
+[dracula.zip](https://github.com/dracula/lsd/files/11355419/dracula.zip)
 
 ![dracula](https://user-images.githubusercontent.com/96319944/235002314-4df99eca-4c3e-4f53-adf2-3cc5b0db2637.png)
 
