@@ -1,4 +1,4 @@
-# Dracula for [lsd](https://github.com/lsd-rs/lsd
+# Dracula for [lsd](https://github.com/lsd-rs/lsd)
 
 > Dracula theme for [lsd](https://github.com/lsd-rs/lsd).
 
