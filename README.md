@@ -47,8 +47,8 @@ Enjoy 🧛🏻‍♂️ [lsd](https://github.com/lsd-rs/lsd) on Mac, Windows & L
 
 This theme is maintained by the following person(s).
 
-| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
-| ---------------------------------------------------------------------------------------- |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt)|
+| ----------------------------------------------------------------------------------------- |
 | [urrickhunt](https://github.com/urrickhunt)                                               |
 
 ## Community
