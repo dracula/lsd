@@ -17,7 +17,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Activating theme
 
-## Mac or Linux
+#### Mac or Linux
 
 1. Create a theme folder in lsd ~/.config/lsd/themes/.yaml
 2. Place [dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip) in the theme folder
@@ -26,7 +26,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
         theme: dracula
 3. If there is no config file please feel free to use this one [config.zip](https://github.com/dracula/lsd/files/11348320/config.zip)        
 
-## Windows
+#### Windows
 
 1.  On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd
 2.  Create a theme folder in lsd, usually in AppData\Roaming\lsd on ARM it will be in AppData\Local\lsd
