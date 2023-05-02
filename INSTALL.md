@@ -20,9 +20,9 @@ Download using the [GitHub `.zip` download option](https://github.com/dracula/ls
 2.  Place [`dracula.zip`](https://github.com/dracula/lsd/archive/refs/heads/main.zip) in the theme folder;
 3.  In the `config.yaml` change to:
 
-        ```yaml
-        theme: dracula
-        ```
+```yaml
+theme: dracula
+```
 
 4.  If there is no config file please feel free to use this one [`config.zip`](https://github.com/dracula/lsd/files/11355414/config.zip).
 
@@ -33,8 +33,8 @@ Download using the [GitHub `.zip` download option](https://github.com/dracula/ls
 3.  Place [`dracula.zip`](https://github.com/dracula/lsd/archive/refs/heads/main.zip) in the theme folder;
 4.  In the `config.yaml` change to:
 
-        ```yaml
-        theme: dracula
-        ```
+```yaml
+theme: dracula
+```
 
 5.  If there is no config file please feel free to use this one [`config.zip`](https://github.com/dracula/lsd/files/11355414/config.zip).
