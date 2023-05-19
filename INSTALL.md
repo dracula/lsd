@@ -10,7 +10,7 @@ git clone https://github.com/dracula/lsd.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download option](https://github.com/dracula/lsd/files/11512621/lsd-main.zip) and unzip them.
+Download using the [GitHub `.zip` download option](https://github.com/dracula/lsd/archive/refs/heads/main.zip) and unzip them.
 
 #### Activating theme
 
