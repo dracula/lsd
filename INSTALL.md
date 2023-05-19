@@ -24,7 +24,7 @@ Download using the [GitHub `.zip` download option](https://github.com/dracula/ls
 theme: dracula
 ```
 
-4.  If there is no config file please feel free to use this one.[config.zip](https://github.com/dracula/lsd/files/11512591/config.zip)
+4.  If there is no config file please feel free to use this one. [config.zip](https://github.com/dracula/lsd/files/11512591/config.zip)
 
 ##### Windows
 
