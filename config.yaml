@@ -9,7 +9,7 @@ color:
   # When "classic" is set, this is set to "no-color".
   # Possible values: default, <theme-file-name>
   # when specifying <theme-file-name>, lsd will look up theme file
-  # XDG Base Directory if relative, e.g. ~/.config/lsd/themes/<theme-file-name>.yaml,
+  # XDG Base Directory if relative, ~/.config/lsd/themes/<theme-file-name>.yaml,
   # The file path if absolute
   theme: dracula
 # == Icons ==
@@ -32,7 +32,15 @@ layout: oneline
 # == Size ==
 # Specifies the format of the size column.
 # Possible values: default, short, bytes
-size: default
+size: short
+# == Permission ==
+# Specify the format of the permission column
+# Possible value: rwx, octal
+permission: rwx
+# == Hyperlink ==
+# Attach hyperlink to filenames
+# Possible values: always, auto, never
+hyperlink: never
 # == No Symlink ==
 # Whether to omit showing symlink targets
 # Possible values: false, true
