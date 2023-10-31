@@ -6,6 +6,9 @@ permission:
   exec: 159                         # cyan
   exec-sticky: 159                  # cyan
   no-access: 210                    # red
+  octal: 212                        # magenta
+  acl: 183                          # blue
+  context: 159                      # cyan
 date:
   hour-old: 146                     # comment 20% lighter
   day-old: 103                      # comment
@@ -22,3 +25,14 @@ links:
   valid: 159                        # cyan
   invalid: 210                      # red
 tree-edge: 183                      # blue
+git-status:
+  default: 103                      # comment
+  unmodified: 103                   # comment
+  ignored: 60                       # current line
+  new-in-index: 120                 # green
+  new-in-workdir: 120               # green
+  typechange: 222                   # orange
+  deleted: 210                      # red
+  renamed: 229                      # yellow
+  modified: 222                     # orange
+  conflicted: 210                   # red
