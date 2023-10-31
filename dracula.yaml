@@ -1,38 +1,38 @@
-user: 159                           # cyan
-group: 231                          # foreground
+user:             &cyan           159
+group:            &foreground     231
 permission:
-  read: 183                         # blue
-  write: 212                        # magenta
-  exec: 159                         # cyan
-  exec-sticky: 159                  # cyan
-  no-access: 210                    # red
-  octal: 212                        # magenta
-  acl: 183                          # blue
-  context: 159                      # cyan
+  read:           &blue           183 # purple
+  write:          &magenta        212
+  exec:           *cyan
+  exec-sticky:    *cyan
+  no-access:      &red            210
+  octal:          *magenta
+  acl:            *blue
+  context:        *cyan
 date:
-  hour-old: 146                     # comment 20% lighter
-  day-old: 103                      # comment
-  older: 60                         # current line
+  hour-old:       &comment-20     146 # 20% lighter
+  day-old:        &comment        103
+  older:          &current-line   60
 size:
-  none: 60                          # current line
-  small: 120                        # green
-  medium: 222                       # orange
-  large: 210                        # red
+  none:           *current-line
+  small:          &green          120
+  medium:         &orange         222
+  large:          *red
 inode:
-  valid: 231                        # foreground
-  invalid: 210                      # red
+  valid:          *foreground
+  invalid:        *red
 links:
-  valid: 159                        # cyan
-  invalid: 210                      # red
-tree-edge: 183                      # blue
+  valid:          *cyan
+  invalid:        *red
+tree-edge:        *blue
 git-status:
-  default: 103                      # comment
-  unmodified: 103                   # comment
-  ignored: 60                       # current line
-  new-in-index: 120                 # green
-  new-in-workdir: 120               # green
-  typechange: 222                   # orange
-  deleted: 210                      # red
-  renamed: 229                      # yellow
-  modified: 222                     # orange
-  conflicted: 210                   # red
+  default:        *comment
+  unmodified:     *comment
+  ignored:        *current-line
+  new-in-index:   *green
+  new-in-workdir: *green
+  typechange:     *orange
+  deleted:        *red
+  renamed:        &yellow         229
+  modified:       *orange
+  conflicted:     *red
