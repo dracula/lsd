@@ -39,3 +39,8 @@ theme: dracula
 
 5.  If there is no config file please feel free to use this one. [config.zip](https://github.com/dracula/lsd/files/11517553/config.zip)
 
+
+##### Updated Universal Method for lsd 1.0.0+
+
+1. Delete theme folder in `~/.config/lsd`
+2. Place both the colors.yaml & config.yaml from the [Updated Colors Method.zip](https://github.com/dracula/lsd/blob/96dfccbadaa8b53b4a013813c04508c9da639ca8/Updated%20Colors%20Method.zip) into `~/.config/lsd` folder
