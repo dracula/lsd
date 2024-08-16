@@ -14,33 +14,27 @@ Download using the [GitHub `.zip` download option](https://github.com/dracula/ls
 
 #### Activating theme
 
-##### Mac or Linux
+##### Usage
 
-1.  Create a theme folder in lsd `~/.config/lsd/themes/.yaml`;
-2.  Place [dracula.zip](https://github.com/dracula/lsd/files/11517536/dracula.zip) in the theme folder;
-3.  In the `config.yaml` change to:
+To activate the theme in **lsd**, you need to modify the `colors.yaml`.
 
-```yaml
-theme: dracula
-```
+**lsd** does not create the `colors.yaml` file for you, but it looks for one in the following locations:
 
-4.  If there is no config file please feel free to use this one. [config.zip](https://github.com/dracula/lsd/files/11517553/config.zip)
+**Linux**:
 
-##### Windows
+- `$XDG_CONFIG_HOME/lsd/colors.yaml`
 
-1.  On Windows systems lsd only looks for the `config.yaml` files in one location: `%APPDATA%\lsd`;
-2.  Create a theme folder in lsd, usually in `AppData\Roaming\lsd` on ARM it will be in `AppData\Local\lsd`;
-3.  Place [dracula.zip](https://github.com/dracula/lsd/files/11517536/dracula.zip) in the theme folder;
-4.  In the `config.yaml` change to:
+**macOS**:
 
-```yaml
-theme: dracula
-```
+- `$HOME/.config/lsd/colors.yaml`
 
-5.  If there is no config file please feel free to use this one. [config.zip](https://github.com/dracula/lsd/files/11517553/config.zip)
+**Windows**:
+
+- `%APPDATA%\lsd\colors.yaml`
 
 
-##### Updated Universal Method for lsd 1.0.0+
+#### Installation
 
-1. Delete theme folder in `~/.config/lsd`
-2. Place both the colors.yaml & config.yaml from the [Updated Colors Method.zip](https://github.com/dracula/lsd/blob/96dfccbadaa8b53b4a013813c04508c9da639ca8/Updated%20Colors%20Method.zip) into `~/.config/lsd` folder
+**Universal**
+
+1.  Copy the both `colors.yaml` & `config.yaml` into your lsd config folder
