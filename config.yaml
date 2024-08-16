@@ -11,7 +11,7 @@ color:
   # when specifying <theme-file-name>, lsd will look up theme file
   # XDG Base Directory if relative, ~/.config/lsd/themes/<theme-file-name>.yaml,
   # The file path if absolute
-  theme: dracula
+  theme: custom
 # == Icons ==
 icons:
   # When to use icons.
@@ -23,7 +23,7 @@ icons:
   theme: fancy
   # Separator between icon and the name
   # Default to 1 space
-  separator: "  "
+  separator: " "
 # == Layout ==
 # Which layout to use. "oneline" might be a bit confusing here and should be
 # called "one-per-line". It might be changed in the future.
